@@ -9,4 +9,6 @@
 
 ## Documents:
 * [Power Point](https://github.com/Samuel-Downs/KidsCantFly/blob/main/docs/Kids%20Can't%20Fly.pptx)
+* [Demo](https://github.com/Samuel-Downs/KidsCantFly/blob/main/demo/VID_20240211_033024.mp4)
+* [Code](https://github.com/Samuel-Downs/KidsCantFly/blob/main/puttingItAllTogetherSamDowns.ecl)
 
