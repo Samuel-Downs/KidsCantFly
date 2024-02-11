@@ -8,5 +8,5 @@
 * ECL Command Prompt: ecl bundle install https://github.com/hpcc-systems/Visualizer.git
 
 ## Documents:
-* [power point](https://github.com/Samuel-Downs/KidsCantFly/blob/main/docs/Kids%20Can't%20Fly.pptx)
+* [Power Point](https://github.com/Samuel-Downs/KidsCantFly/blob/main/docs/Kids%20Can't%20Fly.pptx)
 
