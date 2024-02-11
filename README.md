@@ -7,4 +7,6 @@
 * training.us-hpccsystems-dev.azure.lnrsg.io
 * ECL Command Prompt: ecl bundle install https://github.com/hpcc-systems/Visualizer.git
 
-power point: https://1drv.ms/p/c/21c17d51cecac7ac/Ed8j8ZmTYBhDvwNFALcifSYBRQy5LHvTkZwaSQFrkzS5ZQ?e=4BSXOi
+## Documents:
+* [power point](https://github.com/Samuel-Downs/KidsCantFly/blob/main/docs/Kids%20Can't%20Fly.pptx)
+
