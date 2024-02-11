@@ -5,3 +5,5 @@
 
 ## Setup:
 * training.us-hpccsystems-dev.azure.lnrsg.io
+* ECL Command Prompt: ecl bundle install https://github.com/hpcc-systems/Visualizer.git
+
